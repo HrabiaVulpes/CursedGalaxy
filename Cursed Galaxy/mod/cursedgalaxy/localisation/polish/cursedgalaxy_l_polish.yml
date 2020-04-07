@@ -1,0 +1,66 @@
+﻿l_polish: 
+ policy_research_grants_policy: "Granty Naukowe"
+ policy_research_grants_policy_desc: "Możemy zachęcić do szybkszego rozwoju wybranych obszarów nauki poprzez selekcjonowane granty."
+
+ research_grants_none: "Bez Grantów"
+ research_grants_none_name: "$research_grants_none$"
+ research_grants_none_desc: "Preferowanie tylko jednego rodzaju nauki tylko przeszkadzałoby kreatywności naszych naukowców\n\n"
+
+ research_grants_physics: "Granty dla Fizyków"
+ research_grants_physics_name: "$research_grants_physics$"
+ research_grants_physics_desc: "Zrozumieć fizykę to zrozumieć rzeczywistość!\n\n"
+
+ research_grants_society: "Granty dla Sociologów"
+ research_grants_society_name: "$research_grants_society$"
+ research_grants_society_desc: "Zrozumieć społeczeństwo to prowadzić je ku dobrobytowi!\n\n"
+
+ research_grants_engineering: "Granty dla Inżynierów"
+ research_grants_engineering_name: "$research_grants_engineering$"
+ research_grants_engineering_desc: "Inżynieria buduje naszą przyszłość na solidnych fundamentach!\n\n"
+
+ policy_healthcare_policy: "Narodowy Fundusz Zdrowia"
+ policy_healthcare_policy_desc: "Zdrowie naszej populacji zależy od naszych decyzji"
+
+ healthcare_public_for_all: "Opieka dla Wszystkich"
+ healthcare_public_for_all_name: "$healthcare_public_for_all$"
+ healthcare_public_for_all_desc: "Jedna kolejka dla każdego lekarza, te same leki na te same choroby, żadnego specjalnego traktowania.\n\n"
+
+ healthcare_public_for_emergencies: "Opieka dla Potrzebujących"
+ healthcare_public_for_emergencies_name: "$healthcare_public_for_emergencies$"
+ healthcare_public_for_emergencies_desc: "Tylko ci w stanie krytycznym powinni korzystać z przywilejów darmowej opieki.\n\n"
+ 
+ healthcare_public_for_poor: "Opieka dla Najbiedniejszych"
+ healthcare_public_for_poor_name: "$healthcare_public_for_poor$"
+ healthcare_public_for_poor_desc: "Ci, których nie stać na prywatną opiekę zdrowotną, powinni mieć dostęp do taniej bazowej opieki.\n\n"
+ 
+ healthcare_private_for_employed: "Pracownicza Opieka"
+ healthcare_private_for_employed_name: "$healthcare_private_for_employed$"
+ healthcare_private_for_employed_desc: "Opieka zdrowotna powinna być częścią umowy pracownika.\n\n"
+ 
+ healthcare_private_for_profit: "Prywatna Opieka"
+ healthcare_private_for_profit_name: "$healthcare_private_for_profit$"
+ healthcare_private_for_profit_desc: "Opieka zdrowotna jest częścią naszej ekonomii i powinna być prowadzona jak biznes.\n\n"
+ 
+ policy_education_policy: "Edukacja"
+ policy_education_policy_desc: "Wiedza to potęga, kontrolowanie edukacji jest zatem niezwykle istotne"
+
+ education_public: "Publiczne Szkoły"
+ education_public_name: "$education_public$"
+ education_public_desc: "Równy start dla wszystkich obywateli.\n\n"
+
+ education_specialized: "Szkoły Zawodowe"
+ education_specialized_name: "$education_specialized$"
+ education_specialized_desc: "Edukacja powinna być zależna od wybranego zawodu.\n\n"
+ 
+ education_transcended: "Transcendntna Edukacja"
+ education_transcended_name: "$education_transcended$"
+ education_transcended_desc: "Powinniśmy wykorzystać naszą nową formę edukacji także w codziennym życiu.\n\n"
+ 
+ education_elite: "Edukacja Elit"
+ education_elite_name: "$education_elite$"
+ education_elite_desc: "Edukacji potrzebują tylko ci, któzy przewodzą naszej nacji!\n\n"
+ 
+ education_master: "Mistrz-Student"
+ education_master_name: "$education_master$"
+ education_master_desc: "Doświadczeni powinni uczyć młodych, aby ich wiedza i umiejętności nie zaginęły razem z nimi.\n\n"
+ 

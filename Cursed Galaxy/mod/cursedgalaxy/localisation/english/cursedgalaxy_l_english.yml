@@ -1,0 +1,66 @@
+﻿l_english: 
+ policy_research_grants_policy: "Research Grants"
+ policy_research_grants_policy_desc: "We can encourage specific types of research through selective grants"
+
+ research_grants_none: "No Grants"
+ research_grants_none_name: "$research_grants_none$"
+ research_grants_none_desc: "Favoring one type of research would certainly hamper our researchers creative process\n\n"
+
+ research_grants_physics: "Physics Research Grants"
+ research_grants_physics_name: "$research_grants_physics$"
+ research_grants_physics_desc: "To understand the physics is to understand the reality itself!\n\n"
+
+ research_grants_society: "Society Research Grants"
+ research_grants_society_name: "$research_grants_society$"
+ research_grants_society_desc: "To understand society is to lead it to a prosperous future!\n\n"
+
+ research_grants_engineering: "Engineering Research Grants"
+ research_grants_engineering_name: "$research_grants_engineering$"
+ research_grants_engineering_desc: "Engineering builds our future on strong foundations!\n\n"
+ 
+ policy_healthcare_policy: "Healthcare Policy"
+ policy_healthcare_policy_desc: "Health of our population depends on our policymaking decisions"
+
+ healthcare_public_for_all: "Heathcare for All"
+ healthcare_public_for_all_name: "$healthcare_public_for_all$"
+ healthcare_public_for_all_desc: "One line to every medical worker, one type of treatment for everyone, priorities only for emergencies\n\n"
+
+ healthcare_public_for_emergencies: "Heathcare for Emergencies"
+ healthcare_public_for_emergencies_name: "$healthcare_public_for_emergencies$"
+ healthcare_public_for_emergencies_desc: "Only those with critical health problems should depend completely on free healthcare\n\n"
+ 
+ healthcare_public_for_poor: "Heathcare for Poor"
+ healthcare_public_for_poor_name: "$healthcare_public_for_poor$"
+ healthcare_public_for_poor_desc: "Those who cannot afford private healthcare should be offered cheap public alternative\n\n"
+ 
+ healthcare_private_for_employed: "Heathcare for Employed"
+ healthcare_private_for_employed_name: "$healthcare_private_for_employed$"
+ healthcare_private_for_employed_desc: "Healthcare expenses should rest on shoulders of employer, not government\n\n"
+ 
+ healthcare_private_for_profit: "Heathcare for Profit"
+ healthcare_private_for_profit_name: "$healthcare_private_for_profit$"
+ healthcare_private_for_profit_desc: "Healthcare system is part of our economy and should prioritize profit\n\n"
+ 
+ policy_education_policy: "Education Policy"
+ policy_education_policy_desc: "Knowledge is power and controlling education is controlling knowledge"
+
+ education_public: "Public Education"
+ education_public_name: "$education_public$"
+ education_public_desc: "Equal standing point for everyone in our empire.\n\n"
+
+ education_specialized: "Specialist Education"
+ education_specialized_name: "$education_specialized$"
+ education_specialized_desc: "All our citizens should receive specialist education for their type of work.\n\n"
+ 
+ education_transcended: "Transcended Education"
+ education_transcended_name: "$education_transcended$"
+ education_transcended_desc: "Our transcended education should be implemented on every level of life.\n\n"
+ 
+ education_elite: "Elite Education"
+ education_elite_name: "$education_elite$"
+ education_elite_desc: "Only those destined to rule others need education!\n\n"
+ 
+ education_master: "Master-Studend Education"
+ education_master_name: "$education_master$"
+ education_master_desc: "By encouraging master-student relationships we can ensure experience of elders is passed down to their successors.\n\n"
+ 
