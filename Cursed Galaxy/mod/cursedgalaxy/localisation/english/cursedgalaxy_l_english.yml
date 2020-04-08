@@ -64,3 +64,22 @@
  education_master_name: "$education_master$"
  education_master_desc: "By encouraging master-student relationships we can ensure experience of elders is passed down to their successors.\n\n"
  
+ policy_migration_policy: "Migration Policy"
+ policy_migration_policy_desc: "We can cotroll movement of our populace between planets"
+
+ migration_localized_populace: "Localized Populace"
+ migration_localized_populace_name: "$migration_localized_populace$"
+ migration_localized_populace_desc: "Unless we demand so, everyone should stay on their home planet.\n\n"
+
+ migration_no_interference: "No Interference"
+ migration_no_interference_name: "$migration_no_interference$"
+ migration_no_interference_desc: "Freedom of our populace must come above our interests.\n\n"
+ 
+ migration_work_offers: "Job Hunt"
+ migration_work_offers_name: "$migration_work_offers$"
+ migration_work_offers_desc: "With a little help from government our populace can find work on other planets, urging them to move.\n\n"
+ 
+ migration_unwanted_excess: "Unwanted Excess"
+ migration_unwanted_excess_name: "$migration_unwanted_excess$"
+ migration_unwanted_excess_desc: "Those without house or work should leave to worlds where those are in abundance, even if we have to kick them out by force!\n\n"
+ 

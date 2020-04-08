@@ -64,3 +64,22 @@
  education_master_name: "$education_master$"
  education_master_desc: "Doświadczeni powinni uczyć młodych, aby ich wiedza i umiejętności nie zaginęły razem z nimi.\n\n"
  
+ policy_migration_policy: "Prawo Migracyjne"
+ policy_migration_policy_desc: "Możemy kontrolować ruch naszych obywateli pomiędzy planetami"
+
+ migration_localized_populace: "Lokalna Populacja"
+ migration_localized_populace_name: "$migration_localized_populace$"
+ migration_localized_populace_desc: "Jeśli rząd nie potrzbuje ich w innym miejscu, obywatele powinni pozostać na swojej rodzimej planecie.\n\n"
+
+ migration_no_interference: "Brak Kontroli"
+ migration_no_interference_name: "$migration_no_interference$"
+ migration_no_interference_desc: "Wolność naszej populacji powinna być ważniejsza od rządowych projektów.\n\n"
+ 
+ migration_work_offers: "Rynek Pracy"
+ migration_work_offers_name: "$migration_work_offers$"
+ migration_work_offers_desc: "Z pomocą rządu każdy może znaleźć dla siebie pracę, choćby na innej planecie.\n\n"
+ 
+ migration_unwanted_excess: "Niechciany Nadmiar"
+ migration_unwanted_excess_name: "$migration_unwanted_excess$"
+ migration_unwanted_excess_desc: "Kto nie ma pracy lub domu na swojej planecie musi się przenieść, nawet jeśli trzeba go zmusić!\n\n"
+ 
