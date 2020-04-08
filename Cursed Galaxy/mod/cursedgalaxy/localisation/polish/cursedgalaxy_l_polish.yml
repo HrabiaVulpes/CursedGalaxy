@@ -83,3 +83,25 @@
  migration_unwanted_excess_name: "$migration_unwanted_excess$"
  migration_unwanted_excess_desc: "Kto nie ma pracy lub domu na swojej planecie musi się przenieść, nawet jeśli trzeba go zmusić!\n\n"
  
+ policy_weapon_policy: "Dostęp do Broni"
+ policy_weapon_policy_desc: "Możemy kontrolować dostęp naszej populacji do broni"
+
+ weapon_policy_public: "Publiczny"
+ weapon_policy_public_name: "$weapon_policy_public$"
+ weapon_policy_public_desc: "Każdy powinien posiadać nieograniczony dostęp do broni.\n\n"
+
+ weapon_policy_permit: "Za Pozwoleniem"
+ weapon_policy_permit_name: "$weapon_policy_permit$"
+ weapon_policy_permit_desc: "Posiadanie broni powinno zależeć od wcześniejszego przeszkolenia, stanu psychicznego i innych regulacji.\n\n"
+ 
+ weapon_policy_work: "Do Pracy"
+ weapon_policy_work_name: "$weapon_policy_work$"
+ weapon_policy_work_desc: "Broń powinna być dostępna tylko dla tych, któzy jej potrzebują - żołnierzy i policji.\n\n"
+ 
+ weapon_policy_government: "Dla Rządu"
+ weapon_policy_government_name: "$weapon_policy_government$"
+ weapon_policy_government_desc: "Bron powinna być dostępna dla rządu i jego reprezentantów.\n\n"
+ 
+ weapon_policy_nobody: "Brak Dostępu"
+ weapon_policy_nobody_name: "$weapon_policy_nobody$"
+ weapon_policy_nobody_desc: "Broń jest niebezpieczeństwem dla wszystkich w pobliżu i powinna być używana wyłącznie w dosłownym kontekście wojny.\n\n"

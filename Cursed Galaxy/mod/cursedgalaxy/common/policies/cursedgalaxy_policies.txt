@@ -652,3 +652,173 @@ migration_policy = {
 		}
 	}
 }
+
+weapon_policy = {
+	potential = {
+		OR = {
+			NOT = { has_ethic = ethic_gestalt_consciousness }
+		}
+	}
+
+	option = {
+		name = "weapon_policy_public"
+
+		modifier = {
+			planet_crime_mult = 0.1
+			planet_stability_add = -5
+			army_starting_experience_add = 100
+
+			pop_ethic_militarist_attraction_mult = 0.10
+		}
+
+		AI_weight = {
+			modifier = {
+				factor = 0
+				OR = {
+					has_ethic = ethic_fanatic_pacifist
+				}
+			}
+			modifier = {
+				factor = 0.5
+				OR = {
+					has_ethic = ethic_pacifist
+				}
+			}
+			modifier = {
+				factor = 1
+				OR = {
+					has_ethic = ethic_militarist
+				}
+			}
+			modifier = {
+				factor = 2
+				OR = {
+					has_ethic = ethic_fanatic_militarist
+				}
+			}
+		}
+	}
+
+	option = {
+		name = "weapon_policy_permit"
+
+		modifier = {
+			planet_crime_mult = 0.05
+			trade_value_mult = 0.10
+		}
+
+		AI_weight = {
+			modifier = {
+				factor = 1
+				OR = {
+					has_ethic = ethic_fanatic_egalitarian
+				}
+			}
+			modifier = {
+				factor = 2
+				OR = {
+					has_ethic = ethic_egalitarian
+				}
+			}
+			modifier = {
+				factor = 1
+				OR = {
+					has_ethic = ethic_authoritarian
+				}
+			}
+			modifier = {
+				factor = 0.5
+				OR = {
+					has_ethic = ethic_fanatic_authoritarian
+				}
+			}
+		}
+	}
+
+	option = {
+		name = "weapon_policy_work"
+
+		modifier = {
+			planet_crime_mult = -0.05
+			planet_stability_add = 5
+		}
+
+		AI_weight = {
+			factor = 1
+		}
+	}
+
+	option = {
+		name = "weapon_policy_government"
+
+		modifier = {
+			planet_stability_add = 10
+		}
+
+		AI_weight = {
+			modifier = {
+				factor = 0
+				OR = {
+					has_ethic = ethic_fanatic_egalitarian
+				}
+			}
+			modifier = {
+				factor = 0.5
+				OR = {
+					has_ethic = ethic_egalitarian
+				}
+			}
+			modifier = {
+				factor = 1
+				OR = {
+					has_ethic = ethic_authoritarian
+				}
+			}
+			modifier = {
+				factor = 2
+				OR = {
+					has_ethic = ethic_fanatic_authoritarian
+				}
+			}
+		}
+	}
+
+	option = {
+		name = "weapon_policy_nobody"
+
+		modifier = {
+			army_starting_experience_add = -100
+			trade_value_mult = -0.10
+			planet_stability_add = 20
+
+			pop_ethic_pacifist_attraction_mult = 0.10
+		}
+
+		AI_weight = {
+			modifier = {
+				factor = 2
+				OR = {
+					has_ethic = ethic_fanatic_pacifist
+				}
+			}
+			modifier = {
+				factor = 1
+				OR = {
+					has_ethic = ethic_pacifist
+				}
+			}
+			modifier = {
+				factor = 0.5
+				OR = {
+					has_ethic = ethic_militarist
+				}
+			}
+			modifier = {
+				factor = 0
+				OR = {
+					has_ethic = ethic_fanatic_militarist
+				}
+			}
+		}
+	}
+}

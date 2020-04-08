@@ -83,3 +83,26 @@
  migration_unwanted_excess_name: "$migration_unwanted_excess$"
  migration_unwanted_excess_desc: "Those without house or work should leave to worlds where those are in abundance, even if we have to kick them out by force!\n\n"
  
+ policy_weapon_policy: "Personal Weapons Policy"
+ policy_weapon_policy_desc: "We can cotroll access to personal firearms for our citizens"
+
+ weapon_policy_public: "Public Access"
+ weapon_policy_public_name: "$weapon_policy_public$"
+ weapon_policy_public_desc: "All should have unrestrained access to personal weapons.\n\n"
+
+ weapon_policy_permit: "Permit Only"
+ weapon_policy_permit_name: "$weapon_policy_permit$"
+ weapon_policy_permit_desc: "We should impose strict checks on who can legally obtain a personal weapon.\n\n"
+ 
+ weapon_policy_work: "Work Only"
+ weapon_policy_work_name: "$weapon_policy_work$"
+ weapon_policy_work_desc: "Weapons should be available only for those who need them to work - soldiers and enforcers for example.\n\n"
+ 
+ weapon_policy_government: "Government Only"
+ weapon_policy_government_name: "$weapon_policy_government$"
+ weapon_policy_government_desc: "Personal weapons should be privelage of our government officials.\n\n"
+ 
+ weapon_policy_nobody: "No Weapons"
+ weapon_policy_nobody_name: "$weapon_policy_nobody$"
+ weapon_policy_nobody_desc: "Weapons are tools of war and danger to everyone, we shall keep them away from anyone who is not at war.\n\n"
+ 
