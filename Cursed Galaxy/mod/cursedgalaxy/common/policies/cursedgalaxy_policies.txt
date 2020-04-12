@@ -54,8 +54,8 @@ research_grants_policy = {
 		name = "research_grants_society"
 
 		modifier = {
-			country_physics_tech_research_speed = -0.15
-			country_society_tech_research_speed = 0.1
+			country_physics_tech_research_speed = -0.1
+			country_society_tech_research_speed = 0.15
 			country_engineering_tech_research_speed = -0.1
 		}
 
